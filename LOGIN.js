@@ -1,15 +1,15 @@
 
 var firebaseConfig = {
  
-  apiKey: "AIzaSyDptTWf--nlTNfIOEjn6Bry-hyDZCI-SC0",
-    authDomain: "gamebase-2ead4.firebaseapp.com",
-    projectId: "gamebase-2ead4",
-    storageBucket: "gamebase-2ead4.appspot.com",
-    messagingSenderId: "13800363077",
-    appId: "1:13800363077:web:7fa39de574402683aebf2c",
-    measurementId: "G-5EYF0322F4" 
-    };
-    
+  const firebaseConfig = {
+    apiKey: "AIzaSyA-bdJi5KHQ11Ss9AFAXJ6iebBgnCw3MmY",
+    authDomain: "game-base-f4eef.firebaseapp.com",
+    projectId: "game-base-f4eef",
+    storageBucket: "game-base-f4eef.appspot.com",
+    messagingSenderId: "772534867236",
+    appId: "1:772534867236:web:75f77f2ee9bde0685b8fb1",
+    measurementId: "G-0E4P3EX5K3"
+  };
     firebase.initializeApp(firebaseConfig);
     
 
